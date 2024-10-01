@@ -1,0 +1,7 @@
+The Great Gatsby, F. Scott Fitzgerald, Classic,180, 2023-01-05
+Atomic Habits, James Clear, Self-Help,320,2023-02-14
+The Hobbit, J.R.R. Tolkien, Fantasy,310,2023-03-01
+Sapiens, Yuval Noah Harari, Non-Fiction,498,2023-04-10
+Pride and Prejudice, Jane Austen, Classic,279,2023-04-25
+Dune, Frank Herbert, Sci-Fi,412,2023-05-18
+Educated, Tara Westover, Memoir,334,2023-06-12
